@@ -110,6 +110,7 @@ export const data = {
       ms: "https://drive.google.com/file/d/16d8cylF5E2eX4Usm7gbwjHeBKCEf_Xxh/view?usp=drive_link",
       pq: "https://drive.google.com/file/d/1IhXQy3ii2dWl2URv9xhZacXYAuHTl8P2/view?usp=drive_link",
       pqms: "https://drive.google.com/file/d/1y3RTfs0bOVPznk7izhHCP5OaoOAj8tHE/view?usp=drive_link",
+      cfpq: "https://drive.google.com/file/d/1jdHFQ-2wJ3WCjgfNYldlx4_Eg1YK0rPd/view?usp=drive_link",
     },
     pyqs: [
       {
