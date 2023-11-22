@@ -215,17 +215,19 @@ function App() {
             </div>
           ))}
         </div>
+        <p>
+          Also check out{" "}
+          <a
+            href="https://drive.google.com/drive/folders/1t3AI3dGy8-v3H0bxKCH6paSpCYpLGUW9?usp=drive_link"
+            target="_blank"
+            rel="noreferrer"
+          >
+            EI Learning Frameworks Class 12
+          </a>{" "}
+          (with sample assessment items)
+        </p>
       </div>
-      <div style={{ height: "100px" }}>
-        Also check out{" "}
-        <a
-          href="https://drive.google.com/drive/folders/1t3AI3dGy8-v3H0bxKCH6paSpCYpLGUW9?usp=drive_link"
-          target="_blank"
-          rel="noreferrer"
-        >
-          EI Learning Frameworks Class 12
-        </a> (with sample assessment items)
-      </div>
+      <div style={{ height: "100px" }}></div>
     </div>
   );
 }
