@@ -14,7 +14,7 @@ export const data = {
       pqms: "https://drive.google.com/file/d/16TTKs_03SsyOjkdP7mZ8ygnQi64wb40a/view?usp=drive_link",
       cfpq: "https://drive.google.com/file/d/1aYz6ZP_pMln8QcFMOXw2TeJLyBYLyJdd/view?usp=drive_link",
       pq2: "https://drive.google.com/file/d/1Ax7ycJGkfRp5pqmh63gZMXkvJ9FVtAVn/view?usp=drive_link",
-      pqms2: "https://drive.google.com/file/d/1wvoLiHQLoc5ZB2yuLy3oXjc-20rJ3rnb/view?usp=drive_link",
+      pq2ms: "https://drive.google.com/file/d/1wvoLiHQLoc5ZB2yuLy3oXjc-20rJ3rnb/view?usp=drive_link",
     },
     pyqs: [
       {
