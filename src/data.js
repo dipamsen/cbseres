@@ -12,6 +12,7 @@ export const data = {
       ms: "https://drive.google.com/file/d/1vRBhxuFSXVv6rAxmB9gzpzoxaPnzimW-/view?usp=drive_link",
       pq: "https://drive.google.com/file/d/1DAyTrxqmP1WGsoUZN6vKyvVN0Ug0GxVO/view?usp=drive_link",
       pqms: "https://drive.google.com/file/d/16TTKs_03SsyOjkdP7mZ8ygnQi64wb40a/view?usp=drive_link",
+      cfpq: "https://drive.google.com/file/d/1aYz6ZP_pMln8QcFMOXw2TeJLyBYLyJdd/view?usp=drive_link",
     },
     pyqs: [
       {
@@ -52,6 +53,7 @@ export const data = {
       pq2: "https://drive.google.com/file/d/1Bw1tKVUydZCT6O0JcDrkKivrGHfGFTm9/view?usp=drive_link",
       pq2ms:
         "https://drive.google.com/file/d/13fO4qpqGszqdYuuVHj4-LgQrwhQoqvtB/view?usp=drive_link",
+      cfpq: "https://drive.google.com/file/d/1oFQhobgq4LP1k7PSvnoHR_9YlR5LjJjy/view?usp=drive_link",
     },
     pyqs: [
       {
