@@ -227,7 +227,22 @@ function App() {
           (with sample assessment items)
         </p>*/}
       </div>
-      <div style={{ height: "100px" }}></div>
+      <div style={{ height: "50px" }}></div>
+      {/* footer (created by dipamsen) */}
+      <footer className="footer mt-auto py-3 bg-light">
+        <div className="container text-center">
+          <span className="text-muted">
+            created by{" "}
+            <a
+              href="https://github.com/dipamsen"
+              target="_blank"
+              rel="noreferrer"
+            >
+              dipamsen
+            </a>
+          </span>
+        </div>
+      </footer>
     </div>
   );
 }
